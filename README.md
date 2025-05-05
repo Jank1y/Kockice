@@ -4,7 +4,7 @@ Simulacija igre s tremi uporabniki, kjer vsak vrže 3 kocke. Na koncu se izraču
 
 ## 📌 Avtor
 
-**Ime:** Tvoje Ime  
+**Ime:** Jan Tavčar Kukanja 
 **Projekt ustvarjen:** maj 2025  
 **Tehnologije:** PHP, HTML, CSS, JavaScript, XAMPP (Apache), sejna podpora (`$_SESSION`)
 
